@@ -113,3 +113,10 @@ Export to LaTeX resume templates
 Add analytics to track keyword improvement history
 
  
+## ✨ Author
+
+Viraj Kenekar
+📧 [YourEmail@example.com
+]
+🔗 LinkedIn
+ | GitHub
